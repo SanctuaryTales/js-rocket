@@ -1,2 +1,2 @@
 # js-rocket
-Launch a rocket with jb
+Launch a rocket with js
